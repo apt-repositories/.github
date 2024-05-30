@@ -25,6 +25,7 @@ For binary metadata, only `amd64` architecture is supported.
 
 ## Further reading
 
--   https://wiki.debian.org/SourcesList
--   https://wiki.debian.org/DebianRepository/Format
--   https://help.ubuntu.com/community/Repositories
+- https://wiki.debian.org/SourcesList
+- https://wiki.debian.org/DebianRepository/Format
+- https://wiki.ubuntu.com/Releases
+- https://help.ubuntu.com/community/Repositories
