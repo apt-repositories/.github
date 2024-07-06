@@ -23,6 +23,23 @@ For binary metadata, only `amd64` architecture is supported.
 | Ubuntu       | 16.04   | LTS          | apt/ubuntu/xenial   |
 | Ubuntu       | 14.04   | LTS          | apt/ubuntu/trusty   |
 
+## Status
+
+### Debian
+
+-   [![Debian](https://github.com/apt-repositories/generator/actions/workflows/debian.yml/badge.svg)](https://github.com/apt-repositories/generator/actions/workflows/debian.yml)
+-   [![Debian Backports](https://github.com/apt-repositories/generator/actions/workflows/debian-backports.yml/badge.svg)](https://github.com/apt-repositories/generator/actions/workflows/debian-backports.yml)
+-   [![Debian Security](https://github.com/apt-repositories/generator/actions/workflows/debian-security.yml/badge.svg)](https://github.com/apt-repositories/generator/actions/workflows/debian-security.yml)
+-   [![Debian Updates](https://github.com/apt-repositories/generator/actions/workflows/debian-updates.yml/badge.svg)](https://github.com/apt-repositories/generator/actions/workflows/debian-updates.yml)
+
+### Ubuntu
+
+-   [![Ubuntu](https://github.com/apt-repositories/generator/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/apt-repositories/generator/actions/workflows/ubuntu.yml)
+-   [![Ubuntu Backports](https://github.com/apt-repositories/generator/actions/workflows/ubuntu-backports.yml/badge.svg)](https://github.com/apt-repositories/generator/actions/workflows/ubuntu-backports.yml)
+-   [![Ubuntu Security](https://github.com/apt-repositories/generator/actions/workflows/ubuntu-security.yml/badge.svg)](https://github.com/apt-repositories/generator/actions/workflows/ubuntu-security.yml)
+-   [![Ubuntu Updates](https://github.com/apt-repositories/generator/actions/workflows/ubuntu-updates.yml/badge.svg)](https://github.com/apt-repositories/generator/actions/workflows/ubuntu-updates.yml)
+
+
 ## Further reading
 
 - https://wiki.debian.org/SourcesList
