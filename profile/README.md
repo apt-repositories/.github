@@ -15,7 +15,6 @@ For binary metadata, only `amd64` architecture is supported.
 | Debian       | 10      | oldoldstable | apt/debian/buster   |
 | Ubuntu       | 24.10   |              | apt/ubuntu/oracular |
 | Ubuntu       | 24.04   | LTS          | apt/ubuntu/noble    |
-| Ubuntu       | 23.10   |              | apt/ubuntu/mantic   |
 | Ubuntu       | 23.04   |              | apt/ubuntu/lunar    |
 | Ubuntu       | 22.04   | LTS          | apt/ubuntu/jammy    |
 | Ubuntu       | 20.04   | LTS          | apt/ubuntu/focal    |
